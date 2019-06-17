@@ -1,0 +1,17 @@
+[MainWindow]
+Height 1200=1141
+Height 768=743
+State=AAAA/wAAAAD9AAAAAAAABwQAAAQ9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=451
+Width 1800=1796
+
+[calligra]
+ColorSpacePlugins=kolcmsengine
+ColorSpacePluginsDisabled=
+DockerPlugins=calligradockers,calligra_docker_stencils
+DockerPluginsDisabled=
+ShapePlugins=artistictextshape,chartshape,formulashape,musicshape,pathshapes,pictureshape,pluginshape,spreadsheetshape,textshape,threedshape,vectorshape,videoshape
+ShapePluginsDisabled=
+ToolPlugins=basicflakesplugin,defaulttools,karbontools
+ToolPluginsDisabled=

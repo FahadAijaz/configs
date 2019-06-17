@@ -1,0 +1,15 @@
+# You can add comments to these files with #
+h	~/
+d	~/Documents
+D	~/Downloads
+m	~/Music
+pp	~/Pictures
+vv	~/Videos
+cf	~/.config
+sc	~/.scripts
+mn	/mnt
+cs	~/Documents/computer-systems
+ss	~/Saamsaara
+dse	~/Documents/software-engineering
+dai	/home/knight/Documents/aritificial-intelligence
+

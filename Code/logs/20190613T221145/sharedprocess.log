@@ -1,0 +1,134 @@
+[2019-06-13 22:11:50.298] [sharedprocess] [info] main {"machineId":"b4c5fb79920f8c04b74a33d121bda25fb61ba4d21fe78c5955b78475426cc273"}
+[2019-06-13 22:11:50.782] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:11:50.909] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:11:51.495] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:11:51.499] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:11:51.503] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:11:51.553] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:11:51.573] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:11:51.594] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:11:52.767] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:12:03.384] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:12:03.400] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:12:03.412] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:12:03.631] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:12:03.691] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:12:03.745] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:12:03.787] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:12:07.712] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2019-06-13 22:12:07.862] [sharedprocess] [info] Scanned user extensions: 87
+[2019-06-13 22:12:08.639] [sharedprocess] [info] Downloaded extension: rust-lang.rust /tmp/6e534f9d-1fc9-42dc-84bc-c3f596913b14
+[2019-06-13 22:12:09.710] [sharedprocess] [info] Extracted extension to /home/knight/.vscode/extensions/.rust-lang.rust-0.6.1: rust-lang.rust
+[2019-06-13 22:12:09.713] [sharedprocess] [info] Renamed to /home/knight/.vscode/extensions/rust-lang.rust-0.6.1
+[2019-06-13 22:12:09.717] [sharedprocess] [info] Installation completed. rust-lang.rust
+[2019-06-13 22:12:09.729] [sharedprocess] [info] Extensions installed successfully: rust-lang.rust
+[2019-06-13 22:12:10.863] [sharedprocess] [info] Installing extension: kalitaalexey.vscode-rust
+[2019-06-13 22:12:11.156] [sharedprocess] [info] Scanned user extensions: 88
+[2019-06-13 22:12:11.789] [sharedprocess] [info] Downloaded extension: kalitaalexey.vscode-rust /tmp/2f31642d-5ad4-4534-b3b4-2d9f3da92009
+[2019-06-13 22:12:12.757] [sharedprocess] [info] Extracted extension to /home/knight/.vscode/extensions/.kalitaalexey.vscode-rust-0.4.2: kalitaalexey.vscode-rust
+[2019-06-13 22:12:12.758] [sharedprocess] [info] Renamed to /home/knight/.vscode/extensions/kalitaalexey.vscode-rust-0.4.2
+[2019-06-13 22:12:12.759] [sharedprocess] [info] Installation completed. kalitaalexey.vscode-rust
+[2019-06-13 22:12:12.802] [sharedprocess] [info] Installing extension: siberianmh.rust-grammar
+[2019-06-13 22:12:12.912] [sharedprocess] [info] Extensions installed successfully: kalitaalexey.vscode-rust
+[2019-06-13 22:12:13.025] [sharedprocess] [info] Scanned user extensions: 89
+[2019-06-13 22:12:13.660] [sharedprocess] [info] Downloaded extension: siberianmh.rust-grammar /tmp/7efbce94-72a7-46e4-987a-d7849f123745
+[2019-06-13 22:12:13.843] [sharedprocess] [info] Extracted extension to /home/knight/.vscode/extensions/.siberianmh.rust-grammar-0.1.0: siberianmh.rust-grammar
+[2019-06-13 22:12:13.844] [sharedprocess] [info] Renamed to /home/knight/.vscode/extensions/siberianmh.rust-grammar-0.1.0
+[2019-06-13 22:12:13.845] [sharedprocess] [info] Installation completed. siberianmh.rust-grammar
+[2019-06-13 22:12:13.975] [sharedprocess] [info] Extensions installed successfully: siberianmh.rust-grammar
+[2019-06-13 22:12:14.431] [sharedprocess] [info] Installing extension: miqh.vscode-language-rust
+[2019-06-13 22:12:14.704] [sharedprocess] [info] Scanned user extensions: 90
+[2019-06-13 22:12:15.123] [sharedprocess] [info] Downloaded extension: miqh.vscode-language-rust /tmp/003e26bc-5cc7-42be-ba69-b2a97520691b
+[2019-06-13 22:12:15.161] [sharedprocess] [info] Extracted extension to /home/knight/.vscode/extensions/.miqh.vscode-language-rust-0.14.0: miqh.vscode-language-rust
+[2019-06-13 22:12:15.161] [sharedprocess] [info] Renamed to /home/knight/.vscode/extensions/miqh.vscode-language-rust-0.14.0
+[2019-06-13 22:12:15.162] [sharedprocess] [info] Installation completed. miqh.vscode-language-rust
+[2019-06-13 22:12:15.293] [sharedprocess] [info] Extensions installed successfully: miqh.vscode-language-rust
+[2019-06-13 22:12:30.320] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-13 22:15:04.748] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:15:04.753] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:15:05.057] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:15:05.123] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:15:06.467] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:15:12.460] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:15:12.466] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:15:12.592] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:15:12.655] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:15:14.083] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:20:14.722] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:23:59.061] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:23:59.066] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:23:59.068] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:23:59.197] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:23:59.230] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:23:59.264] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:24:00.924] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:25:06.349] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:25:06.350] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:25:06.353] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:25:06.500] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:25:06.534] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:25:06.552] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:25:06.584] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:26:15.327] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:26:15.332] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:26:15.335] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:26:15.337] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:26:15.754] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:26:15.810] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:26:15.849] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:26:15.901] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:26:15.943] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:26:17.579] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:27:42.217] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:27:42.352] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:27:44.574] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:30:29.610] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:30:29.612] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:30:29.615] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:30:29.747] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:30:29.764] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:30:29.779] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:30:29.801] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:30:48.184] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:30:48.338] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:30:50.618] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:31:29.735] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:31:29.738] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:31:29.740] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-13 22:31:29.861] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:31:29.887] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:31:29.900] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:31:29.921] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:35:50.819] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:40:51.068] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:45:51.270] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:50:51.482] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 22:55:51.678] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 23:00:51.859] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 23:05:52.025] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 23:10:52.433] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 23:15:52.621] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 23:20:52.790] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 23:25:53.005] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-13 23:30:53.172] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 10:50:45.410] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 10:58:31.340] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 13:20:35.662] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 13:25:36.088] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 13:30:36.364] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 13:35:36.573] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 13:40:36.750] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 13:45:37.225] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 13:50:37.571] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 13:55:37.882] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:00:38.352] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:05:38.666] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:10:39.018] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:15:39.215] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:20:39.455] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:25:39.824] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:30:40.038] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:35:40.269] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:40:40.639] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:45:40.940] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 14:50:41.142] [sharedprocess] [info] Scanned user extensions: 91

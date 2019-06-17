@@ -1,0 +1,704 @@
+May 12 18:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 12 18:28 : exception: Failed to open '/home/knight/.config/mpd/state': No such file or directory
+May 12 18:28 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 12 18:28 : client: [0] opened from 127.0.0.1:53606
+May 12 18:28 : client: [1] opened from 127.0.0.1:53610
+May 12 18:28 : client: [1] closed
+May 12 20:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 12 20:08 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 12 20:08 : client: [0] opened from 127.0.0.1:55034
+May 12 20:08 : client: [1] opened from 127.0.0.1:55038
+May 12 20:08 : client: [1] closed
+May 12 20:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 12 20:34 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 12 20:34 : client: [0] opened from 127.0.0.1:39404
+May 12 20:34 : client: [1] opened from 127.0.0.1:39408
+May 12 20:34 : client: [1] closed
+May 12 21:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 12 21:52 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 12 21:52 : client: [0] opened from 127.0.0.1:56104
+May 12 21:52 : client: [1] opened from 127.0.0.1:56108
+May 12 21:52 : client: [1] closed
+May 12 22:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 12 22:33 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 12 22:33 : client: [0] opened from 127.0.0.1:53498
+May 12 22:33 : client: [1] opened from 127.0.0.1:53502
+May 12 22:33 : client: [1] closed
+May 13 18:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 13 18:02 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 13 18:02 : client: [0] opened from 127.0.0.1:59512
+May 13 18:02 : client: [1] opened from 127.0.0.1:59516
+May 13 18:02 : client: [1] closed
+May 13 18:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 13 18:36 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 13 18:36 : client: [0] opened from 127.0.0.1:37028
+May 13 18:36 : client: [1] opened from 127.0.0.1:37032
+May 13 18:36 : client: [1] closed
+May 13 19:38 : client: [2] opened from 127.0.0.1:38140
+May 13 19:38 : exception: Not playing
+May 13 19:38 : client: [2] closed
+May 13 19:38 : client: [3] opened from 127.0.0.1:38144
+May 13 19:38 : exception: Not playing
+May 13 19:38 : client: [3] closed
+May 13 21:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 13 21:08 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 13 21:08 : client: [0] opened from 127.0.0.1:33726
+May 13 21:08 : client: [0] closed
+May 13 21:08 : client: [1] opened from 127.0.0.1:33730
+May 13 21:08 : client: [2] opened from 127.0.0.1:33734
+May 13 21:08 : client: [2] closed
+May 14 00:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 14 00:41 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 14 00:41 : client: [0] opened from 127.0.0.1:41916
+May 14 00:41 : client: [0] closed
+May 14 00:41 : client: [1] opened from 127.0.0.1:41920
+May 14 00:41 : client: [2] opened from 127.0.0.1:41924
+May 14 00:41 : client: [2] closed
+May 14 03:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 14 03:01 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 14 03:01 : client: [0] opened from 127.0.0.1:52194
+May 14 03:01 : client: [1] opened from 127.0.0.1:52198
+May 14 03:01 : client: [1] closed
+May 14 17:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 14 17:42 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 14 17:42 : client: [0] opened from 127.0.0.1:45226
+May 14 17:42 : client: [0] closed
+May 14 17:42 : client: [1] opened from 127.0.0.1:45230
+May 14 17:42 : client: [2] opened from 127.0.0.1:45234
+May 14 17:42 : client: [2] closed
+May 14 20:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 14 20:00 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 14 20:00 : client: [0] opened from 127.0.0.1:35588
+May 14 20:00 : client: [1] opened from 127.0.0.1:35592
+May 14 20:00 : client: [1] closed
+May 14 21:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 14 21:10 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 14 21:10 : client: [0] opened from 127.0.0.1:37642
+May 14 21:10 : client: [1] opened from 127.0.0.1:37646
+May 14 21:10 : client: [1] closed
+May 14 21:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 14 21:12 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 14 21:12 : client: [0] opened from 127.0.0.1:39034
+May 14 21:12 : client: [1] opened from 127.0.0.1:39038
+May 14 21:12 : client: [1] closed
+May 14 23:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 14 23:46 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 14 23:46 : client: [0] opened from 127.0.0.1:59316
+May 14 23:46 : client: [1] opened from 127.0.0.1:59320
+May 14 23:46 : client: [1] closed
+May 15 18:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 15 18:07 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 15 18:07 : client: [0] opened from 127.0.0.1:52156
+May 15 18:07 : client: [1] opened from 127.0.0.1:52160
+May 15 18:07 : client: [1] closed
+May 15 19:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 15 19:44 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 15 19:44 : client: [0] opened from 127.0.0.1:44210
+May 15 19:44 : client: [0] closed
+May 15 19:44 : client: [1] opened from 127.0.0.1:44214
+May 15 19:44 : client: [2] opened from 127.0.0.1:44218
+May 15 19:44 : client: [2] closed
+May 15 23:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 15 23:46 : client: [0] opened from 127.0.0.1:50816
+May 15 23:46 : client: [0] closed
+May 15 23:46 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 15 23:46 : client: [1] opened from 127.0.0.1:50822
+May 15 23:46 : client: [2] opened from 127.0.0.1:50826
+May 15 23:46 : client: [2] closed
+May 16 00:26 : client: [3] opened from 127.0.0.1:51464
+May 16 00:26 : client: [3] closed
+May 16 14:44 : client: [4] opened from 127.0.0.1:51700
+May 16 14:44 : client: [4] closed
+May 17 07:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 07:45 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 17 07:45 : client: [0] opened from 127.0.0.1:33452
+May 17 07:45 : client: [1] opened from 127.0.0.1:33456
+May 17 07:45 : client: [1] closed
+May 17 08:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 08:15 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 17 08:15 : client: [0] opened from 127.0.0.1:60474
+May 17 08:15 : client: [0] closed
+May 17 08:15 : client: [1] opened from 127.0.0.1:60478
+May 17 08:15 : client: [2] opened from 127.0.0.1:60482
+May 17 08:15 : client: [2] closed
+May 17 08:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 08:30 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 17 08:30 : client: [0] opened from 127.0.0.1:36034
+May 17 08:30 : client: [1] opened from 127.0.0.1:36038
+May 17 08:30 : client: [1] closed
+May 17 08:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 08:39 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 17 08:39 : client: [0] opened from 127.0.0.1:39246
+May 17 08:39 : client: [1] opened from 127.0.0.1:39250
+May 17 08:39 : client: [1] closed
+May 17 21:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 21:01 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 17 21:01 : client: [0] opened from 127.0.0.1:44164
+May 17 21:01 : client: [0] closed
+May 17 21:01 : client: [1] opened from 127.0.0.1:44168
+May 17 21:01 : client: [2] opened from 127.0.0.1:44172
+May 17 21:01 : client: [2] closed
+May 18 21:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 18 21:46 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 18 21:46 : client: [0] opened from 127.0.0.1:39720
+May 18 21:46 : client: [0] closed
+May 18 21:46 : client: [1] opened from 127.0.0.1:39724
+May 18 21:46 : client: [2] opened from 127.0.0.1:39728
+May 18 21:46 : client: [2] closed
+May 18 22:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 18 22:53 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 18 22:53 : client: [0] opened from 127.0.0.1:54270
+May 18 22:53 : client: [1] opened from 127.0.0.1:54274
+May 18 22:53 : client: [1] closed
+May 19 00:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 00:14 : client: [0] opened from 127.0.0.1:34314
+May 19 00:14 : client: [0] closed
+May 19 00:15 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 19 00:15 : client: [1] opened from 127.0.0.1:34318
+May 19 00:15 : client: [2] opened from 127.0.0.1:34322
+May 19 00:15 : client: [2] closed
+May 19 00:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 00:34 : client: [0] opened from 127.0.0.1:54192
+May 19 00:34 : client: [0] closed
+May 19 00:34 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 19 00:34 : client: [1] opened from 127.0.0.1:54196
+May 19 00:34 : client: [2] opened from 127.0.0.1:54200
+May 19 00:34 : client: [2] closed
+May 19 12:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 12:46 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 19 12:46 : client: [0] opened from 127.0.0.1:59618
+May 19 12:46 : client: [1] opened from 127.0.0.1:59622
+May 19 12:46 : client: [1] closed
+May 19 12:49 : client: [2] opened from 127.0.0.1:59628
+May 19 12:49 : client: [2] closed
+May 19 14:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 14:56 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 19 14:57 : client: [0] opened from 127.0.0.1:57226
+May 19 14:57 : client: [1] opened from 127.0.0.1:57230
+May 19 14:57 : client: [1] closed
+May 20 08:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 20 08:06 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 20 08:06 : client: [0] opened from 127.0.0.1:60032
+May 20 08:06 : client: [1] opened from 127.0.0.1:60036
+May 20 08:06 : client: [1] closed
+May 20 08:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 20 08:20 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 20 08:20 : client: [0] opened from 127.0.0.1:50132
+May 20 08:20 : client: [0] closed
+May 20 08:20 : client: [1] opened from 127.0.0.1:50136
+May 20 08:20 : client: [2] opened from 127.0.0.1:50140
+May 20 08:20 : client: [2] closed
+May 20 11:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 20 11:34 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 20 11:34 : client: [0] opened from 127.0.0.1:50822
+May 20 11:34 : client: [1] opened from 127.0.0.1:50826
+May 20 11:34 : client: [1] closed
+May 20 11:34 : client: [2] opened from 127.0.0.1:50830
+May 20 11:34 : client: [2] closed
+May 20 13:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 20 13:15 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 20 13:15 : client: [0] opened from 127.0.0.1:54554
+May 20 13:15 : client: [1] opened from 127.0.0.1:54558
+May 20 13:15 : client: [1] closed
+May 20 14:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 20 14:17 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 20 14:17 : client: [0] opened from 127.0.0.1:44378
+May 20 14:17 : client: [1] opened from 127.0.0.1:44382
+May 20 14:17 : client: [1] closed
+May 20 20:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 20 20:33 : client: [0] opened from 127.0.0.1:47298
+May 20 20:33 : client: [0] closed
+May 20 20:33 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 20 20:33 : client: [1] opened from 127.0.0.1:47304
+May 20 20:33 : client: [2] opened from 127.0.0.1:47308
+May 20 20:33 : client: [2] closed
+May 20 21:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 20 21:12 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 20 21:12 : client: [0] opened from 127.0.0.1:53176
+May 20 21:12 : client: [1] opened from 127.0.0.1:53180
+May 20 21:12 : client: [1] closed
+May 21 07:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 07:53 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 21 07:53 : client: [0] opened from 127.0.0.1:42364
+May 21 07:53 : client: [1] opened from 127.0.0.1:42368
+May 21 07:53 : client: [1] closed
+May 21 11:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 11:54 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 21 11:54 : client: [0] opened from 127.0.0.1:47670
+May 21 11:54 : client: [1] opened from 127.0.0.1:47674
+May 21 11:54 : client: [1] closed
+May 21 15:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 15:44 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 21 15:44 : client: [0] opened from 127.0.0.1:36480
+May 21 15:44 : client: [1] opened from 127.0.0.1:36484
+May 21 15:44 : client: [1] closed
+May 22 07:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 07:57 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 22 07:57 : client: [0] opened from 127.0.0.1:40440
+May 22 07:57 : client: [1] opened from 127.0.0.1:40444
+May 22 07:57 : client: [1] closed
+May 22 12:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 12:39 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 22 12:39 : client: [0] opened from 127.0.0.1:44310
+May 22 12:39 : client: [1] opened from 127.0.0.1:44314
+May 22 12:39 : client: [1] closed
+May 22 15:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 15:42 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 22 15:42 : client: [0] opened from 127.0.0.1:47554
+May 22 15:42 : client: [1] opened from 127.0.0.1:47558
+May 22 15:42 : client: [1] closed
+May 23 07:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 07:59 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 23 07:59 : client: [0] opened from 127.0.0.1:54684
+May 23 07:59 : client: [1] opened from 127.0.0.1:54688
+May 23 07:59 : client: [1] closed
+May 23 08:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 08:12 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 23 08:12 : client: [0] opened from 127.0.0.1:42256
+May 23 08:12 : client: [1] opened from 127.0.0.1:42260
+May 23 08:12 : client: [1] closed
+May 23 08:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 08:29 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 23 08:29 : client: [0] opened from 127.0.0.1:33844
+May 23 08:29 : client: [1] opened from 127.0.0.1:33848
+May 23 08:29 : client: [1] closed
+May 23 11:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 11:39 : client: [0] opened from 127.0.0.1:38816
+May 23 11:39 : client: [0] closed
+May 23 11:39 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 23 11:39 : client: [1] opened from 127.0.0.1:38822
+May 23 11:39 : client: [2] opened from 127.0.0.1:38826
+May 23 11:39 : client: [2] closed
+May 23 12:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 12:57 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 23 12:57 : client: [0] opened from 127.0.0.1:41368
+May 23 12:57 : client: [1] opened from 127.0.0.1:41372
+May 23 12:57 : client: [1] closed
+May 23 14:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 14:17 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 23 14:17 : client: [0] opened from 127.0.0.1:40990
+May 23 14:17 : client: [1] opened from 127.0.0.1:40994
+May 23 14:17 : client: [1] closed
+May 24 07:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 07:50 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 24 07:50 : client: [0] opened from 127.0.0.1:49424
+May 24 07:50 : client: [1] opened from 127.0.0.1:49428
+May 24 07:50 : client: [1] closed
+May 24 10:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 10:36 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 24 10:37 : client: [0] opened from 127.0.0.1:42654
+May 24 10:37 : client: [1] opened from 127.0.0.1:42658
+May 24 10:37 : client: [1] closed
+May 24 14:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 14:45 : client: [0] opened from 127.0.0.1:40450
+May 24 14:45 : client: [0] closed
+May 24 14:45 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 24 14:45 : client: [1] opened from 127.0.0.1:40454
+May 24 14:45 : client: [2] opened from 127.0.0.1:40458
+May 24 14:45 : client: [2] closed
+May 24 21:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 21:24 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 24 21:24 : client: [0] opened from 127.0.0.1:55830
+May 24 21:24 : client: [1] opened from 127.0.0.1:55834
+May 24 21:24 : client: [1] closed
+May 24 21:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 21:27 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 24 21:27 : client: [0] opened from 127.0.0.1:45810
+May 24 21:27 : client: [0] closed
+May 24 21:27 : client: [1] opened from 127.0.0.1:45814
+May 24 21:27 : client: [2] opened from 127.0.0.1:45818
+May 24 21:27 : client: [2] closed
+May 25 01:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 01:13 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 25 01:13 : client: [0] opened from 127.0.0.1:54108
+May 25 01:13 : client: [1] opened from 127.0.0.1:54112
+May 25 01:13 : client: [1] closed
+May 25 07:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 07:52 : client: [0] opened from 127.0.0.1:60924
+May 25 07:52 : client: [0] closed
+May 25 07:52 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 25 07:52 : client: [1] opened from 127.0.0.1:60930
+May 25 07:52 : client: [2] opened from 127.0.0.1:60934
+May 25 07:52 : client: [2] closed
+May 25 08:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 08:18 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 25 08:19 : client: [0] opened from 127.0.0.1:59092
+May 25 08:19 : client: [1] opened from 127.0.0.1:59096
+May 25 08:19 : client: [1] closed
+May 25 09:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 09:26 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 25 09:26 : client: [0] opened from 127.0.0.1:41476
+May 25 09:26 : client: [0] closed
+May 25 09:27 : client: [1] opened from 127.0.0.1:41480
+May 25 09:27 : client: [2] opened from 127.0.0.1:41484
+May 25 09:27 : client: [2] closed
+May 25 15:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 15:41 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 25 15:41 : client: [0] opened from 127.0.0.1:50008
+May 25 15:41 : client: [1] opened from 127.0.0.1:50012
+May 25 15:41 : client: [1] closed
+May 25 15:42 : client: [2] opened from 127.0.0.1:50016
+May 25 15:42 : client: [2] closed
+May 26 13:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 13:04 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 26 13:04 : client: [0] opened from 127.0.0.1:47620
+May 26 13:04 : client: [1] opened from 127.0.0.1:47624
+May 26 13:04 : client: [1] closed
+May 27 07:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 27 07:47 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 27 07:47 : client: [0] opened from 127.0.0.1:60524
+May 27 07:47 : client: [1] opened from 127.0.0.1:60528
+May 27 07:47 : client: [1] closed
+May 28 08:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 08:02 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 28 08:02 : client: [0] opened from 127.0.0.1:43104
+May 28 08:02 : client: [0] closed
+May 28 08:02 : client: [1] opened from 127.0.0.1:43108
+May 28 08:02 : client: [2] opened from 127.0.0.1:43112
+May 28 08:02 : client: [2] closed
+May 28 12:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 12:17 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 28 12:17 : client: [0] opened from 127.0.0.1:49090
+May 28 12:17 : client: [1] opened from 127.0.0.1:49094
+May 28 12:17 : client: [1] closed
+May 28 13:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 13:29 : client: [0] opened from 127.0.0.1:50846
+May 28 13:29 : client: [0] closed
+May 28 13:29 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 28 13:29 : client: [1] opened from 127.0.0.1:50852
+May 28 13:29 : client: [2] opened from 127.0.0.1:50856
+May 28 13:29 : client: [2] closed
+May 28 20:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 20:12 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 28 20:12 : client: [0] opened from 127.0.0.1:56408
+May 28 20:12 : client: [0] closed
+May 28 20:13 : client: [1] opened from 127.0.0.1:56412
+May 28 20:13 : client: [2] opened from 127.0.0.1:56416
+May 28 20:13 : client: [2] closed
+May 29 08:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 29 08:12 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 29 08:12 : client: [0] opened from 127.0.0.1:59204
+May 29 08:12 : client: [0] closed
+May 29 08:12 : client: [1] opened from 127.0.0.1:59208
+May 29 08:12 : client: [2] opened from 127.0.0.1:59212
+May 29 08:12 : client: [2] closed
+May 29 11:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 29 11:34 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 29 11:35 : client: [0] opened from 127.0.0.1:49762
+May 29 11:35 : client: [1] opened from 127.0.0.1:49766
+May 29 11:35 : client: [1] closed
+May 29 19:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 29 19:25 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 29 19:25 : client: [0] opened from 127.0.0.1:36274
+May 29 19:25 : client: [1] opened from 127.0.0.1:36278
+May 29 19:25 : client: [1] closed
+May 30 08:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 08:04 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 30 08:05 : client: [0] opened from 127.0.0.1:33098
+May 30 08:05 : client: [1] opened from 127.0.0.1:33102
+May 30 08:05 : client: [1] closed
+May 30 10:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 10:46 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 30 10:46 : client: [0] opened from 127.0.0.1:45286
+May 30 10:46 : client: [1] opened from 127.0.0.1:45290
+May 30 10:46 : client: [1] closed
+May 30 14:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 14:13 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 30 14:13 : client: [0] opened from 127.0.0.1:45342
+May 30 14:13 : client: [1] opened from 127.0.0.1:45346
+May 30 14:13 : client: [1] closed
+May 30 17:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 17:42 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 30 17:42 : client: [0] opened from 127.0.0.1:32836
+May 30 17:42 : client: [1] opened from 127.0.0.1:32840
+May 30 17:42 : client: [1] closed
+May 31 08:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 08:11 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 31 08:11 : client: [0] opened from 127.0.0.1:60520
+May 31 08:11 : client: [1] opened from 127.0.0.1:60524
+May 31 08:11 : client: [1] closed
+May 31 18:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 18:34 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 31 18:34 : client: [0] opened from 127.0.0.1:52284
+May 31 18:34 : client: [1] opened from 127.0.0.1:52288
+May 31 18:34 : client: [1] closed
+May 31 20:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 20:07 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+May 31 20:07 : client: [0] opened from 127.0.0.1:35266
+May 31 20:07 : client: [1] opened from 127.0.0.1:35270
+May 31 20:07 : client: [1] closed
+Jun 01 18:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 18:56 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 01 18:56 : client: [0] opened from 127.0.0.1:59174
+Jun 01 18:56 : client: [1] opened from 127.0.0.1:59178
+Jun 01 18:56 : client: [1] closed
+Jun 01 21:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 21:28 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 01 21:28 : client: [0] opened from 127.0.0.1:44708
+Jun 01 21:28 : client: [0] closed
+Jun 01 21:28 : client: [1] opened from 127.0.0.1:44712
+Jun 01 21:28 : client: [2] opened from 127.0.0.1:44716
+Jun 01 21:28 : client: [2] closed
+Jun 02 02:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 02:03 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 02 02:03 : client: [0] opened from 127.0.0.1:44622
+Jun 02 02:03 : client: [1] opened from 127.0.0.1:44626
+Jun 02 02:03 : client: [1] closed
+Jun 02 07:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 07:44 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 02 07:44 : client: [0] opened from 127.0.0.1:40574
+Jun 02 07:44 : client: [1] opened from 127.0.0.1:40578
+Jun 02 07:44 : client: [1] closed
+Jun 02 11:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 11:42 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 02 11:42 : client: [0] opened from 127.0.0.1:49016
+Jun 02 11:42 : client: [1] opened from 127.0.0.1:49020
+Jun 02 11:42 : client: [1] closed
+Jun 02 14:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 14:46 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 02 14:46 : client: [0] opened from 127.0.0.1:51616
+Jun 02 14:46 : client: [1] opened from 127.0.0.1:51620
+Jun 02 14:46 : client: [1] closed
+Jun 02 19:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 02 19:29 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 02 19:29 : client: [0] opened from 127.0.0.1:48520
+Jun 02 19:29 : client: [1] opened from 127.0.0.1:48524
+Jun 02 19:29 : client: [1] closed
+Jun 02 21:01 : client: [2] opened from 127.0.0.1:49042
+Jun 02 21:01 : client: [2] closed
+Jun 03 09:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 09:42 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 03 09:42 : client: [0] opened from 127.0.0.1:48694
+Jun 03 09:42 : client: [1] opened from 127.0.0.1:48698
+Jun 03 09:42 : client: [1] closed
+Jun 03 11:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 11:19 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 03 11:19 : client: [0] opened from 127.0.0.1:59470
+Jun 03 11:19 : client: [1] opened from 127.0.0.1:59474
+Jun 03 11:19 : client: [1] closed
+Jun 03 13:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 13:57 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 03 13:57 : client: [0] opened from 127.0.0.1:32856
+Jun 03 13:57 : client: [1] opened from 127.0.0.1:32860
+Jun 03 13:57 : client: [1] closed
+Jun 03 16:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 16:42 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 03 16:42 : client: [0] opened from 127.0.0.1:56638
+Jun 03 16:42 : client: [1] opened from 127.0.0.1:56642
+Jun 03 16:42 : client: [1] closed
+Jun 03 18:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 18:54 : client: [0] opened from 127.0.0.1:36000
+Jun 03 18:54 : client: [0] closed
+Jun 03 18:54 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 03 18:54 : client: [1] opened from 127.0.0.1:36006
+Jun 03 18:54 : client: [2] opened from 127.0.0.1:36010
+Jun 03 18:54 : client: [2] closed
+Jun 03 18:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 18:56 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 03 18:56 : client: [0] opened from 127.0.0.1:56356
+Jun 03 18:56 : client: [1] opened from 127.0.0.1:56360
+Jun 03 18:56 : client: [1] closed
+Jun 03 23:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 03 23:14 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 03 23:14 : client: [0] opened from 127.0.0.1:58508
+Jun 03 23:14 : client: [1] opened from 127.0.0.1:58512
+Jun 03 23:14 : client: [1] closed
+Jun 04 03:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 03:12 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 04 03:12 : client: [0] opened from 127.0.0.1:40598
+Jun 04 03:12 : client: [1] opened from 127.0.0.1:40602
+Jun 04 03:12 : client: [1] closed
+Jun 04 06:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 06:39 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 04 06:39 : client: [0] opened from 127.0.0.1:58398
+Jun 04 06:39 : client: [1] opened from 127.0.0.1:58402
+Jun 04 06:39 : client: [1] closed
+Jun 04 07:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 07:45 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 04 07:45 : client: [0] opened from 127.0.0.1:50538
+Jun 04 07:45 : client: [1] opened from 127.0.0.1:50542
+Jun 04 07:45 : client: [1] closed
+Jun 04 09:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 04 09:59 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 04 09:59 : client: [0] opened from 127.0.0.1:32828
+Jun 04 09:59 : client: [1] opened from 127.0.0.1:32832
+Jun 04 09:59 : client: [1] closed
+Jun 05 15:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 05 15:43 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 05 15:43 : client: [0] opened from 127.0.0.1:51424
+Jun 05 15:43 : client: [0] closed
+Jun 05 15:43 : client: [1] opened from 127.0.0.1:51428
+Jun 05 15:43 : client: [2] opened from 127.0.0.1:51432
+Jun 05 15:43 : client: [2] closed
+Jun 05 16:52 : client: [3] opened from 127.0.0.1:35526
+Jun 05 16:52 : client: [3] closed
+Jun 05 23:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 05 23:43 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 05 23:43 : client: [0] opened from 127.0.0.1:53050
+Jun 05 23:43 : client: [1] opened from 127.0.0.1:53054
+Jun 05 23:43 : client: [1] closed
+Jun 06 21:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 06 21:43 : client: [0] opened from 127.0.0.1:45910
+Jun 06 21:43 : client: [0] closed
+Jun 06 21:43 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 06 21:43 : client: [1] opened from 127.0.0.1:45916
+Jun 06 21:43 : client: [2] opened from 127.0.0.1:45920
+Jun 06 21:43 : client: [2] closed
+Jun 07 02:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 02:09 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 07 02:10 : client: [0] opened from 127.0.0.1:44956
+Jun 07 02:10 : client: [1] opened from 127.0.0.1:44960
+Jun 07 02:10 : client: [1] closed
+Jun 07 14:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 14:12 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 07 14:12 : client: [0] opened from 127.0.0.1:43710
+Jun 07 14:12 : client: [1] opened from 127.0.0.1:43714
+Jun 07 14:12 : client: [1] closed
+Jun 07 18:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 07 18:23 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 07 18:23 : client: [0] opened from 127.0.0.1:58248
+Jun 07 18:23 : client: [1] opened from 127.0.0.1:58252
+Jun 07 18:23 : client: [1] closed
+Jun 08 12:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 12:19 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 08 12:19 : client: [0] opened from 127.0.0.1:55924
+Jun 08 12:19 : client: [1] opened from 127.0.0.1:55928
+Jun 08 12:19 : client: [1] closed
+Jun 08 19:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 08 19:30 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 08 19:30 : client: [0] opened from 127.0.0.1:59198
+Jun 08 19:30 : client: [1] opened from 127.0.0.1:59202
+Jun 08 19:30 : client: [1] closed
+Jun 09 00:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 00:56 : client: [0] opened from 127.0.0.1:35996
+Jun 09 00:56 : client: [0] closed
+Jun 09 00:56 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 09 00:56 : client: [1] opened from 127.0.0.1:36002
+Jun 09 00:56 : client: [2] opened from 127.0.0.1:36006
+Jun 09 00:56 : client: [2] closed
+Jun 09 14:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 14:03 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 09 14:03 : client: [0] opened from 127.0.0.1:34306
+Jun 09 14:03 : client: [1] opened from 127.0.0.1:34310
+Jun 09 14:03 : client: [1] closed
+Jun 09 20:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 20:03 : client: [0] opened from 127.0.0.1:52806
+Jun 09 20:03 : client: [0] closed
+Jun 09 20:03 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 09 20:03 : client: [1] opened from 127.0.0.1:52812
+Jun 09 20:03 : client: [2] opened from 127.0.0.1:52816
+Jun 09 20:03 : client: [2] closed
+Jun 09 22:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 09 22:48 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 09 22:48 : client: [0] opened from 127.0.0.1:38956
+Jun 09 22:48 : client: [1] opened from 127.0.0.1:38960
+Jun 09 22:48 : client: [1] closed
+Jun 10 14:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 14:51 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 10 14:51 : client: [0] opened from 127.0.0.1:56506
+Jun 10 14:51 : client: [1] opened from 127.0.0.1:56510
+Jun 10 14:51 : client: [1] closed
+Jun 10 16:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 16:27 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 10 16:27 : client: [0] opened from 127.0.0.1:50820
+Jun 10 16:27 : client: [1] opened from 127.0.0.1:50824
+Jun 10 16:27 : client: [1] closed
+Jun 10 22:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 10 22:34 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 10 22:34 : client: [0] opened from 127.0.0.1:37812
+Jun 10 22:34 : client: [1] opened from 127.0.0.1:37816
+Jun 10 22:34 : client: [1] closed
+Jun 11 14:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 14:06 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 11 14:06 : client: [0] opened from 127.0.0.1:44878
+Jun 11 14:06 : client: [1] opened from 127.0.0.1:44882
+Jun 11 14:06 : client: [1] closed
+Jun 11 19:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 19:22 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 11 19:22 : client: [0] opened from 127.0.0.1:41582
+Jun 11 19:22 : client: [1] opened from 127.0.0.1:41586
+Jun 11 19:22 : client: [1] closed
+Jun 11 23:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 11 23:10 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 11 23:10 : client: [0] opened from 127.0.0.1:46968
+Jun 11 23:10 : client: [1] opened from 127.0.0.1:46972
+Jun 11 23:10 : client: [1] closed
+Jun 13 13:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 13:32 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 13 13:32 : client: [0] opened from 127.0.0.1:60998
+Jun 13 13:32 : client: [1] opened from 127.0.0.1:32770
+Jun 13 13:32 : client: [1] closed
+Jun 13 17:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 17:32 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 13 17:32 : client: [0] opened from 127.0.0.1:54450
+Jun 13 17:32 : client: [1] opened from 127.0.0.1:54454
+Jun 13 17:32 : client: [1] closed
+Jun 13 19:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 19:39 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 13 19:39 : client: [0] opened from 127.0.0.1:38474
+Jun 13 19:39 : client: [1] opened from 127.0.0.1:38478
+Jun 13 19:39 : client: [1] closed
+Jun 13 21:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 21:21 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 13 21:21 : client: [0] opened from 127.0.0.1:48136
+Jun 13 21:21 : client: [1] opened from 127.0.0.1:48140
+Jun 13 21:21 : client: [1] closed
+Jun 14 20:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 14 20:21 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 14 20:22 : client: [0] opened from 127.0.0.1:35588
+Jun 14 20:22 : client: [1] opened from 127.0.0.1:35592
+Jun 14 20:22 : client: [1] closed
+Jun 14 20:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 14 20:33 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 14 20:33 : client: [0] opened from 127.0.0.1:38742
+Jun 14 20:33 : client: [1] opened from 127.0.0.1:38746
+Jun 14 20:33 : client: [1] closed
+Jun 15 15:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 15:44 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 15 15:44 : client: [0] opened from 127.0.0.1:46132
+Jun 15 15:44 : client: [1] opened from 127.0.0.1:46136
+Jun 15 15:44 : client: [1] closed
+Jun 15 22:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 22:21 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 15 22:21 : client: [0] opened from 127.0.0.1:54552
+Jun 15 22:21 : client: [1] opened from 127.0.0.1:54556
+Jun 15 22:21 : client: [1] closed
+Jun 15 23:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 23:19 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 15 23:19 : client: [0] opened from 127.0.0.1:55898
+Jun 15 23:19 : client: [1] opened from 127.0.0.1:55902
+Jun 15 23:19 : client: [1] closed
+Jun 16 15:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 15:54 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 16 15:54 : client: [0] opened from 127.0.0.1:40658
+Jun 16 15:54 : client: [1] opened from 127.0.0.1:40662
+Jun 16 15:54 : client: [1] closed
+Jun 17 01:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 01:24 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 17 01:24 : client: [0] opened from 127.0.0.1:48076
+Jun 17 01:24 : client: [1] opened from 127.0.0.1:48080
+Jun 17 01:24 : client: [1] closed
+Jun 17 15:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 15:35 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 17 15:36 : client: [0] opened from 127.0.0.1:45360
+Jun 17 15:36 : client: [1] opened from 127.0.0.1:45364
+Jun 17 15:36 : client: [1] closed
+Jun 17 21:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 21:36 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 17 21:36 : client: [0] opened from 127.0.0.1:47354
+Jun 17 21:36 : client: [1] opened from 127.0.0.1:47358
+Jun 17 21:36 : client: [1] closed
+Jun 17 21:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 21:41 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 17 21:41 : client: [0] opened from 127.0.0.1:38796
+Jun 17 21:41 : client: [1] opened from 127.0.0.1:38800
+Jun 17 21:41 : client: [1] closed
+Jun 17 23:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 23:22 : client: [0] opened from 127.0.0.1:58440
+Jun 17 23:22 : client: [0] closed
+Jun 17 23:22 : avahi: Service 'Music Player @ explicator-pc' successfully established.
+Jun 17 23:22 : client: [1] opened from 127.0.0.1:58446
+Jun 17 23:22 : client: [2] opened from 127.0.0.1:58450
+Jun 17 23:22 : client: [2] closed
+Jun 17 23:23 : client: [3] opened from 127.0.0.1:58454
+Jun 17 23:23 : client: [3] closed

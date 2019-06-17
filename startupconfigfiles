@@ -1,0 +1,63 @@
+kcminputrc Mouse cursorTheme 'breeze_cursors'
+/home/knight/.config/kcminputrc
+/etc/xdg/kcminputrc
+!/home/knight/.local/share/config/kcminputrc
+!/home/knight/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+/home/knight/.config/kcminputrc
+/etc/xdg/kcminputrc
+!/home/knight/.local/share/config/kcminputrc
+!/home/knight/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Breeze
+!/home/knight/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/knight/.local/share/config/ksplashrc
+!/home/knight/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashQML
+!/home/knight/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/knight/.local/share/config/ksplashrc
+!/home/knight/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kdeglobals KScreen ScaleFactor ''
+/home/knight/.config/kdeglobals
+/etc/xdg/kdeglobals
+!/home/knight/.local/share/config/kdeglobals
+!/home/knight/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kdeglobals KScreen ScreenScaleFactors ''
+/home/knight/.config/kdeglobals
+/etc/xdg/kdeglobals
+!/home/knight/.local/share/config/kdeglobals
+!/home/knight/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kcmfonts General forceFontDPI 0
+/home/knight/.config/kcmfonts
+!/etc/xdg/kcmfonts
+!/home/knight/.local/share/config/kcmfonts
+!/home/knight/.local/share/flatpak/exports/share/config/kcmfonts
+!/var/lib/flatpak/exports/share/config/kcmfonts
+!/usr/local/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*

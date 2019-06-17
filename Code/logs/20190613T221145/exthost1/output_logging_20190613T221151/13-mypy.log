@@ -1,0 +1,29 @@
+2019-06-13 22:12:03,792 UTC - INFO - mypyls.python_ls - Starting PythonLanguageServer IO language server
+2019-06-13 22:12:03,792 UTC - INFO - mypyls.python_ls - sys.executable = /home/knight/.mypyls/bin/python
+2019-06-13 22:12:03,793 UTC - INFO - mypyls.python_ls - sys.version = 3.7.3 (default, Mar 26 2019, 21:43:19) 
+[GCC 8.2.1 20181127]
+2019-06-13 22:12:03,793 UTC - INFO - mypyls.python_ls - __file__ = /home/knight/.mypyls/lib/python3.7/site-packages/mypyls/python_ls.py
+2019-06-13 22:12:04,135 UTC - INFO - mypyls.python_ls - Using non-patched mypy, rich language features not available.
+2019-06-13 22:12:04,135 UTC - INFO - mypyls.python_ls - Using Python before 3.8, rich language features not available.
+2019-06-13 22:12:04,136 UTC - INFO - mypyls.python_ls - Server capabilities: {'definitionProvider': False, 'hoverProvider': False, 'textDocumentSync': 2}
+2019-06-13 22:12:04,140 UTC - INFO - mypyls.config - Updated settings to {'executable': '~/.mypyls/bin/mypyls', 'configFile': '', 'targets': ['.']}
+2019-06-13 22:12:04,142 UTC - INFO - mypyls.mypy_server - Got python_executable from pythonPath: python
+2019-06-13 22:12:04,143 UTC - INFO - mypyls.mypy_server - python_executable does not exist, ignoring it.
+2019-06-13 22:12:04,143 UTC - INFO - mypyls.mypy_server - Trying to read mypy config file from default locations
+2019-06-13 22:12:04,143 UTC - INFO - mypyls.mypy_server - Mypy configuration not read, using defaults.
+2019-06-13 22:12:04,144 UTC - INFO - mypyls.mypy_server - python_executable after applying config: None
+2019-06-13 22:12:04,144 UTC - INFO - mypyls.mypy_server - Checking mypy...
+2019-06-13 22:12:04,145 UTC - INFO - mypyls.mypy_server - Targets: ['/home/knight/Documents/shell-scripts/.']
+2019-06-13 22:12:06,597 UTC - INFO - mypyls.mypy_server - mypy done, exit code 1
+2019-06-13 22:12:06,597 UTC - INFO - mypyls.mypy_server - mypy stdout:
+key.py:3:1: error: Cannot find module named 'rake_nltk'
+key.py:3:1: note: See https://mypy.readthedocs.io/en/latest/running_mypy.html#missing-imports
+key.py:4:1: error: No library stub file for module 'nltk'
+key.py:4:1: note: (Stub files are from https://github.com/python/typeshed)
+similar.py:1:1: error: No library stub file for module 'nltk'
+similar.py:2:1: error: No library stub file for module 'nltk.tokenize'
+similar.py:3:1: error: No library stub file for module 'nltk.corpus'
+similar.py:5:1: error: No library stub file for module 'nltk.corpus.reader.plaintext'
+
+2019-06-13 22:12:10,172 UTC - WARNING - pyls_jsonrpc.endpoint - Ignoring notification for unknown method $/setTraceNotification
+2019-06-13 22:12:13,244 UTC - WARNING - pyls_jsonrpc.endpoint - Ignoring notification for unknown method $/setTraceNotification

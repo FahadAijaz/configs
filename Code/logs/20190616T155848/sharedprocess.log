@@ -1,0 +1,51 @@
+[2019-06-16 15:58:52.418] [sharedprocess] [info] main {"machineId":"b4c5fb79920f8c04b74a33d121bda25fb61ba4d21fe78c5955b78475426cc273"}
+[2019-06-16 15:58:52.896] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-16 15:58:53.085] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 15:58:53.129] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-16 15:58:53.170] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 15:58:53.592] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 15:58:56.059] [sharedprocess] [info] Installing extension: johnpapa.vscode-peacock
+[2019-06-16 15:58:56.060] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2019-06-16 15:58:56.061] [sharedprocess] [info] Installing extension: sdras.vue-vscode-snippets
+[2019-06-16 15:58:56.286] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 15:58:56.290] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 15:58:56.293] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 15:58:57.628] [sharedprocess] [info] Downloaded extension: sdras.vue-vscode-snippets /tmp/29170374-3ac0-4171-90c9-20db5ee20045
+[2019-06-16 15:58:57.844] [sharedprocess] [info] Extracted extension to /home/knight/.vscode/extensions/.sdras.vue-vscode-snippets-1.7.0: sdras.vue-vscode-snippets
+[2019-06-16 15:58:57.845] [sharedprocess] [info] Renamed to /home/knight/.vscode/extensions/sdras.vue-vscode-snippets-1.7.0
+[2019-06-16 15:58:57.847] [sharedprocess] [info] Installation completed. sdras.vue-vscode-snippets
+[2019-06-16 15:58:58.012] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-16 15:58:58.054] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 15:58:58.059] [sharedprocess] [info] Extensions installed successfully: sdras.vue-vscode-snippets
+[2019-06-16 15:58:58.266] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /tmp/d8007d9a-0e63-41a6-9166-5a62bccf7fd0
+[2019-06-16 15:58:59.539] [sharedprocess] [info] Downloaded extension: johnpapa.vscode-peacock /tmp/59bd2607-443c-43f0-8fca-44432b9413e2
+[2019-06-16 15:59:00.067] [sharedprocess] [info] Extracted extension to /home/knight/.vscode/extensions/.johnpapa.vscode-peacock-2.4.0: johnpapa.vscode-peacock
+[2019-06-16 15:59:00.068] [sharedprocess] [info] Renamed to /home/knight/.vscode/extensions/johnpapa.vscode-peacock-2.4.0
+[2019-06-16 15:59:00.069] [sharedprocess] [info] Installation completed. johnpapa.vscode-peacock
+[2019-06-16 15:59:00.082] [sharedprocess] [info] Extensions installed successfully: johnpapa.vscode-peacock
+[2019-06-16 15:59:00.094] [sharedprocess] [info] Extracted extension to /home/knight/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.11.4: msjsdiag.debugger-for-chrome
+[2019-06-16 15:59:00.095] [sharedprocess] [info] Renamed to /home/knight/.vscode/extensions/msjsdiag.debugger-for-chrome-4.11.4
+[2019-06-16 15:59:00.097] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2019-06-16 15:59:00.105] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2019-06-16 15:59:32.446] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-16 16:03:53.792] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:08:53.947] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:13:54.109] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:18:54.267] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:23:54.501] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:28:54.756] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:33:54.957] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:38:55.100] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:43:55.283] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:48:55.433] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:53:55.580] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 16:58:55.799] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 17:03:55.935] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 17:08:56.105] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 17:40:43.324] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 17:45:43.529] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 17:50:43.763] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 17:55:44.054] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 18:00:44.379] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 18:05:44.663] [sharedprocess] [info] Scanned user extensions: 94
+[2019-06-16 18:10:44.870] [sharedprocess] [info] Scanned user extensions: 94

@@ -1,0 +1,162 @@
+[2019-06-17 16:13:52.753] [exthost] [info] extension host started
+[2019-06-17 16:13:52.872] [exthost] [info] ExtensionService#_doActivateExtension Ikuyadeu.r {"startup":false,"activationEvent":"onLanguage:r"}
+[2019-06-17 16:13:52.872] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/ikuyadeu.r-1.1.0/dist/extension
+[2019-06-17 16:13:52.969] [exthost] [info] ExtensionService#_doActivateExtension Mikhail-Arkhipov.r {"startup":false,"activationEvent":"onLanguage:r"}
+[2019-06-17 16:13:52.969] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/mikhail-arkhipov.r-0.0.6/out/src/extension
+[2019-06-17 16:13:53.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.120] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-17 16:13:53.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.126] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-06-17 16:13:53.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.167] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-06-17 16:13:53.539] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.539] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-17 16:13:53.555] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.555] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/alefragnani.bookmarks-10.4.4/dist/extension
+[2019-06-17 16:13:53.583] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.583] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/alefragnani.project-manager-10.5.2/dist/extension
+[2019-06-17 16:13:53.603] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.603] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-06-17 16:13:53.632] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.632] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-06-17 16:13:53.684] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.684] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-17 16:13:53.767] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:53.767] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/eamodio.gitlens-9.8.2/dist/extension
+[2019-06-17 16:13:54.250] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:54.250] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-06-17 16:13:54.607] [exthost] [info] ExtensionService#_doActivateExtension eppz.eppz-code {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:54.607] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/eppz.eppz-code-1.2.41/out/src/main
+[2019-06-17 16:13:55.266] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:55.266] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/equinusocio.vsc-material-theme-2.9.0/out/src/material.theme.config
+[2019-06-17 16:13:55.310] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:55.310] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-06-17 16:13:56.045] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:56.045] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-06-17 16:13:56.048] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:56.048] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-06-17 16:13:56.056] [exthost] [info] ExtensionService#_doActivateExtension geddski.macros {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:56.056] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/geddski.macros-1.2.1/extension
+[2019-06-17 16:13:56.170] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:56.170] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-06-17 16:13:56.282] [exthost] [info] ExtensionService#_doActivateExtension joelday.docthis {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:56.282] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/joelday.docthis-0.7.1/out/src/extension
+[2019-06-17 16:13:58.290] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:58.290] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/johnpapa.vscode-peacock-2.4.0/dist/extension
+[2019-06-17 16:13:58.343] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-codemetrics {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:13:58.343] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/kisstkondoros.vscode-codemetrics-1.18.1/out/src/extension
+[2019-06-17 16:14:00.114] [exthost] [info] ExtensionService#_doActivateExtension mishkinf.goto-next-previous-member {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:00.114] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/mishkinf.goto-next-previous-member-0.0.5/out/extension
+[2019-06-17 16:14:00.119] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:00.119] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-06-17 16:14:00.190] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:00.190] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/nrwl.angular-console-8.0.5/main.js
+[2019-06-17 16:14:00.551] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:00.551] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-17 16:14:00.751] [exthost] [info] ExtensionService#_doActivateExtension tombonnike.vscode-status-bar-format-toggle {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:00.751] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/tombonnike.vscode-status-bar-format-toggle-1.5.0/out/src/extension
+[2019-06-17 16:14:01.230] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:01.230] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/ms-vscode.csharp-1.20.0/dist/extension
+[2019-06-17 16:14:01.764] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:01.764] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-06-17 16:14:03.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-17 16:14:03.041] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2019-06-17 16:14:03.104] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-17 16:14:03.106] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-06-17 16:14:03.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-17 16:14:03.406] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-17 16:14:03.639] [exthost] [info] eager extensions activated
+[2019-06-17 16:14:03.751] [exthost] [info] ExtensionService#_doActivateExtension Unity.unity-debug {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:03.751] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/unity.unity-debug-2.7.2/out/attach.js
+[2019-06-17 16:14:28.937] [exthost] [info] extension host started
+[2019-06-17 16:14:29.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-17 16:14:29.039] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2019-06-17 16:14:29.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-17 16:14:29.054] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-06-17 16:14:29.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-17 16:14:29.166] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-17 16:14:29.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.301] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-17 16:14:29.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.305] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-06-17 16:14:29.333] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.333] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-06-17 16:14:29.538] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.538] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-17 16:14:29.547] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.547] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/alefragnani.bookmarks-10.4.4/dist/extension
+[2019-06-17 16:14:29.565] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.565] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/alefragnani.project-manager-10.5.2/dist/extension
+[2019-06-17 16:14:29.581] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.581] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-06-17 16:14:29.600] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.600] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-06-17 16:14:29.646] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.646] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-17 16:14:29.725] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.725] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/eamodio.gitlens-9.8.2/dist/extension
+[2019-06-17 16:14:29.939] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.939] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-06-17 16:14:29.985] [exthost] [info] ExtensionService#_doActivateExtension eppz.eppz-code {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:29.985] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/eppz.eppz-code-1.2.41/out/src/main
+[2019-06-17 16:14:30.518] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:30.518] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/equinusocio.vsc-material-theme-2.9.0/out/src/material.theme.config
+[2019-06-17 16:14:30.569] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:30.569] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-06-17 16:14:30.934] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:30.934] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-06-17 16:14:30.937] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:30.937] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-06-17 16:14:30.944] [exthost] [info] ExtensionService#_doActivateExtension geddski.macros {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:30.944] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/geddski.macros-1.2.1/extension
+[2019-06-17 16:14:30.990] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:30.990] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-06-17 16:14:31.060] [exthost] [info] ExtensionService#_doActivateExtension joelday.docthis {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:31.060] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/joelday.docthis-0.7.1/out/src/extension
+[2019-06-17 16:14:31.668] [exthost] [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:31.668] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/johnpapa.vscode-peacock-2.4.0/dist/extension
+[2019-06-17 16:14:31.681] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-codemetrics {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:31.681] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/kisstkondoros.vscode-codemetrics-1.18.1/out/src/extension
+[2019-06-17 16:14:33.183] [exthost] [info] ExtensionService#_doActivateExtension mishkinf.goto-next-previous-member {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:33.183] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/mishkinf.goto-next-previous-member-0.0.5/out/extension
+[2019-06-17 16:14:33.186] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:33.186] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-06-17 16:14:33.841] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:33.841] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/nrwl.angular-console-8.0.5/main.js
+[2019-06-17 16:14:33.983] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:33.983] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-17 16:14:34.031] [exthost] [info] ExtensionService#_doActivateExtension tombonnike.vscode-status-bar-format-toggle {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:34.031] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/tombonnike.vscode-status-bar-format-toggle-1.5.0/out/src/extension
+[2019-06-17 16:14:34.139] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:34.139] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/ms-vscode.csharp-1.20.0/dist/extension
+[2019-06-17 16:14:34.682] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:34.682] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-06-17 16:14:35.746] [exthost] [info] ExtensionService#_doActivateExtension matangover.mypy {"startup":true,"activationEvent":"workspaceContains:**/*.py"}
+[2019-06-17 16:14:35.746] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/matangover.mypy-0.1.3/out/extension
+[2019-06-17 16:14:36.152] [exthost] [info] eager extensions activated
+[2019-06-17 16:14:36.392] [exthost] [info] ExtensionService#_doActivateExtension Unity.unity-debug {"startup":true,"activationEvent":"*"}
+[2019-06-17 16:14:36.392] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/unity.unity-debug-2.7.2/out/attach.js
+[2019-06-17 19:00:05.373] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:c"}
+[2019-06-17 19:00:05.373] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/ms-vscode.cpptools-0.23.1/dist/main
+[2019-06-17 19:17:24.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-17 19:17:24.495] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/grunt/dist/main
+[2019-06-17 19:17:24.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-17 19:17:24.632] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/gulp/dist/main
+[2019-06-17 19:17:24.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-17 19:17:24.643] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/jake/dist/main
+[2019-06-17 19:17:24.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-17 19:17:24.656] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/npm/dist/main
+[2019-06-17 19:17:24.878] [exthost] [info] ExtensionService#_doActivateExtension rebornix.ruby {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-17 19:17:24.878] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/rebornix.ruby-0.23.0/out/ruby.js
+[2019-06-17 19:18:41.064] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"activationEvent":"onCommand:code-runner.run"}
+[2019-06-17 19:18:41.064] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/formulahendry.code-runner-0.9.10/out/src/extension
+[2019-06-17 19:24:59.836] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-06-17 19:24:59.836] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2019-06-17 19:24:59.843] [exthost] [info] ExtensionService#_doActivateExtension msjsdiag.debugger-for-chrome {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-06-17 19:24:59.843] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/msjsdiag.debugger-for-chrome-4.11.4/out/src/extension
+[2019-06-17 19:25:00.108] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-06-17 19:25:00.108] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/ms-vscode.node-debug/dist/extension.js
+[2019-06-17 19:25:00.135] [exthost] [info] ExtensionService#_doActivateExtension PeterJausovec.vscode-docker {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-06-17 19:25:00.135] [exthost] [info] ExtensionService#loadCommonJSModule /home/knight/.vscode/extensions/peterjausovec.vscode-docker-0.6.2/main
+[2019-06-17 19:25:05.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"activationEvent":"onDebugResolve"}
+[2019-06-17 19:25:05.238] [exthost] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/debug-server-ready/dist/extension

@@ -1,0 +1,4 @@
+peacock: Adding recommended favorite colors to user settings
+Updating the user settings with the following changes:
+  peacock.favoriteColors = [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Saving the most recently used color  to state

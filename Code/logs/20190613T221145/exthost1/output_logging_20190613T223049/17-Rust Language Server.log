@@ -1,0 +1,592 @@
+[Error - 10:48:59 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:49:02 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:49:10 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:49:48 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:49:49 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:49:52 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:49:59 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:49:59 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:50:01 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:50:06 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:50:08 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:50:10 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:50:10 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:50:49 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:04 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:04 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:04 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:07 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:15 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:18 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:27 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:29 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:30 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:30 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:30 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:30 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:30 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:37 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:40 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 10:51:41 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:09:56 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:09:56 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:09:56 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:09:57 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:09:57 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:10:16 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:10:38 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:11:13 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:11:13 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:11:14 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:11:14 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:11:14 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:11:20 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:11:20 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:11:20 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:11:21 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+error: expected one of `,`, `.`, `?`, `}`, or an operator, found `;`
+ --> <stdin>:6:39
+  |
+6 |         x @ 1..12 => println!("hello");
+  |                   --                  ^ expected one of `,`, `.`, `?`, `}`, or an operator here
+  |                   |
+  |                   while parsing the `match` arm starting here
+
+[Error - 11:11:54 PM] Request textDocument/formatting failed.
+  Message: Formatting could not be completed.
+  Code: -32603 
+error: expected one of `,`, `.`, `?`, `}`, or an operator, found `;`
+ --> <stdin>:6:39
+  |
+6 |         x @ 1..12 => println!("hello");
+  |                   --                  ^ expected one of `,`, `.`, `?`, `}`, or an operator here
+  |                   |
+  |                   while parsing the `match` arm starting here
+
+[Error - 11:11:55 PM] Request textDocument/formatting failed.
+  Message: Formatting could not be completed.
+  Code: -32603 
+[Error - 11:11:56 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:12:06 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:12:08 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:12:08 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:12:24 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:12:25 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:12:27 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:12:33 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:12:33 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:13:03 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:18:45 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:18:46 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:18:46 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:18:46 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:06 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:07 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:07 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:07 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:07 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:11 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:11 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:11 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:11 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:15 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:15 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:15 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:45 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:45 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:19:48 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:22:11 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:24:58 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:24:59 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:25:00 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:25:00 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:25:15 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:25:21 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:25:30 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:26:09 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:26:12 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:26:23 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+note: Run with `RUST_BACKTRACE=1` environment variable to display a backtrace.
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:26:41 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'request-worker-1' panicked at 'Failed load file "": Custom { kind: Other, error: Io(Some(""), Some("Could not open file: ")) }', src/libcore/result.rs:997:5
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:26:44 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:26:45 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:26:46 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:26:54 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:27:17 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:27:17 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:27:17 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:27:24 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:27:27 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:27:27 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:27:52 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:27:54 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:28:07 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:28:09 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:09 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:10 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:10 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:10 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:10 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:26 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:27 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:27 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:27 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:41 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:28:41 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'request-worker-2' panicked at 'Statement does not have a beginning', src/libcore/option.rs:1034:5
+[2019-06-13T13:29:05Z ERROR rls::actions::hover] racer_def: racer panicked
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:29:16 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:29:21 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:29:32 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:29:34 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:29:41 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:29:47 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:29:49 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:29:49 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:30:00 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+thread 'rustc' panicked at 'called `Option::unwrap()` on a `None` value', src/libcore/option.rs:345:21
+
+error: internal compiler error: unexpected panic
+
+note: the compiler unexpectedly panicked. this is a bug.
+
+note: we would appreciate a bug report: https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md#bug-reports
+
+note: rustc 1.35.0 (3c235d560 2019-05-20) running on x86_64-unknown-linux-gnu
+
+[Error - 11:30:07 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:30:07 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:30:07 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:30:08 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+error: expected one of `.`, `;`, `?`, `}`, or an operator, found `println`
+  --> <stdin>:18:1
+   |
+17 |     Shape::Square(2)
+   |                     - expected one of `.`, `;`, `?`, `}`, or an operator here
+18 | println!()
+   | ^^^^^^^ unexpected token
+
+[Error - 11:31:02 PM] Request textDocument/formatting failed.
+  Message: Formatting could not be completed.
+  Code: -32603 
+[Error - 11:31:13 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:31:27 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:31:30 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:31:37 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:31:39 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:31:39 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:31:39 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:31:39 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:31:39 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 
+[Error - 11:31:43 PM] Request textDocument/formatting failed.
+  Message: Reformat failed to complete successfully
+  Code: -32603 

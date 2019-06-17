@@ -1,0 +1,6 @@
+[2019-06-13 19:40:41.566] [renderer1] [warning] Aborted onWillSaveTextDocument-event after 1750ms
+[2019-06-13 19:40:44.000] [renderer1] [warning] UNRESPONSIVE extension host, 'kisstkondoros.vscode-codemetrics' took 52% of 1494.852ms, saved PROFILE here: '/tmp/exthost-7f8eee.cpuprofile' [{"id":"esbenp.prettier-vscode","total":30,"percentage":0},{"id":"gc","total":759,"percentage":0},{"id":"kisstkondoros.vscode-codemetrics","total":772389,"percentage":52},{"id":"mishkinf.goto-next-previous-member","total":170,"percentage":0},{"id":"ms-vscode.csharp","total":31866,"percentage":2},{"id":"naumovs.color-highlight","total":8339,"percentage":1},{"id":"nrwl.angular-console","total":5533,"percentage":0},{"id":"PKief.material-icon-theme","total":7652,"percentage":1},{"id":"program","total":21788,"percentage":1},{"id":"self","total":556276,"percentage":37},{"id":"tombonnike.vscode-status-bar-format-toggle","total":75589,"percentage":5},{"id":"wayou.vscode-todo-highlight","total":3465,"percentage":0}]
+[2019-06-13 19:40:45.339] [renderer1] [error] spawn /home/knight/repos/fastText-0.2.0/python EACCES: Error: spawn /home/knight/repos/fastText-0.2.0/python EACCES
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)

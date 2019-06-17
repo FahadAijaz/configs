@@ -1,0 +1,22 @@
+2019-06-17 16:14:37,566 UTC - INFO - mypyls.python_ls - Starting PythonLanguageServer IO language server
+2019-06-17 16:14:37,567 UTC - INFO - mypyls.python_ls - sys.executable = /home/knight/.mypyls/bin/python
+2019-06-17 16:14:37,567 UTC - INFO - mypyls.python_ls - sys.version = 3.7.3 (default, Mar 26 2019, 21:43:19) 
+[GCC 8.2.1 20181127]
+2019-06-17 16:14:37,567 UTC - INFO - mypyls.python_ls - __file__ = /home/knight/.mypyls/lib/python3.7/site-packages/mypyls/python_ls.py
+2019-06-17 16:14:37,861 UTC - INFO - mypyls.python_ls - Using non-patched mypy, rich language features not available.
+2019-06-17 16:14:37,861 UTC - INFO - mypyls.python_ls - Using Python before 3.8, rich language features not available.
+2019-06-17 16:14:37,861 UTC - INFO - mypyls.python_ls - Server capabilities: {'definitionProvider': False, 'hoverProvider': False, 'textDocumentSync': 2}
+2019-06-17 16:14:37,863 UTC - INFO - mypyls.config - Updated settings to {'executable': '~/.mypyls/bin/mypyls', 'configFile': '', 'targets': ['.']}
+2019-06-17 16:14:37,866 UTC - INFO - mypyls.mypy_server - Got python_executable from pythonPath: /usr/bin/python
+2019-06-17 16:14:37,867 UTC - INFO - mypyls.mypy_server - Trying to read mypy config file from default locations
+2019-06-17 16:14:37,868 UTC - INFO - mypyls.mypy_server - Mypy configuration not read, using defaults.
+2019-06-17 16:14:37,868 UTC - INFO - mypyls.mypy_server - python_executable after applying config: /usr/bin/python
+2019-06-17 16:14:37,869 UTC - INFO - mypyls.mypy_server - Checking mypy...
+2019-06-17 16:14:37,870 UTC - INFO - mypyls.mypy_server - Targets: ['/home/knight/Documents/PythonScripts/.']
+2019-06-17 16:14:38,132 UTC - INFO - mypyls.mypy_server - mypy done, exit code 2
+2019-06-17 16:14:38,133 UTC - INFO - mypyls.mypy_server - mypy stdout:
+corpus.py:91:5: error: invalid syntax
+
+2019-06-17 19:17:54,234 UTC - WARNING - pyls_jsonrpc.endpoint - Ignoring notification for unknown method $/setTraceNotification
+2019-06-17 19:18:02,581 UTC - WARNING - pyls_jsonrpc.endpoint - Ignoring notification for unknown method $/setTraceNotification
+2019-06-17 19:25:07,532 UTC - WARNING - pyls_jsonrpc.endpoint - Ignoring notification for unknown method $/setTraceNotification

@@ -1,0 +1,32 @@
+[Running] Rscript "/home/knight/Documents/Nlp/test.r"
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+[Done] exited with code=0 in 2.131 seconds
+
+[Running] Rscript "/home/knight/Documents/Nlp/test.r"
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in library(janeaustenr) : there is no package called ‘janeaustenr’
+Execution halted
+
+[Done] exited with code=1 in 0.959 seconds
+

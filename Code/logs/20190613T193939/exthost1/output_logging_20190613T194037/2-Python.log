@@ -1,0 +1,90 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+33,8,error,undefined-variable:Undefined variable 'Word2Vec'
+33,17,error,undefined-variable:Undefined variable 'sentences'
+
+-------------------------------------------------------------------
+Your code has been rated at -0.91/10 (previous run: 0.77/10, -1.68)
+
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+33,0,error,undefined-variable:Undefined variable 'model'
+
+-------------------------------------------------------------------
+Your code has been rated at 3.00/10 (previous run: -0.91/10, +3.91)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+31,0,error,undefined-variable:Undefined variable 'model'
+
+------------------------------------------------------------------
+Your code has been rated at 3.00/10 (previous run: 3.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+
+------------------------------------------------------------------
+Your code has been rated at 8.00/10 (previous run: 3.00/10, +5.00)
+
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+
+------------------------------------------------------------------
+Your code has been rated at 8.18/10 (previous run: 8.00/10, +0.18)
+
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+
+------------------------------------------------------------------
+Your code has been rated at 8.18/10 (previous run: 8.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+
+------------------------------------------------------------------
+Your code has been rated at 8.18/10 (previous run: 8.18/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+
+------------------------------------------------------------------
+Your code has been rated at 8.18/10 (previous run: 8.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+
+------------------------------------------------------------------
+Your code has been rated at 8.18/10 (previous run: 8.18/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module tagging
+20,13,warning,unused-variable:Unused variable 't1'
+20,33,warning,unused-variable:Unused variable 't3'
+32,0,error,no-value-for-parameter:No value for argument 'ws2' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 3.64/10 (previous run: 8.18/10, -4.55)
+

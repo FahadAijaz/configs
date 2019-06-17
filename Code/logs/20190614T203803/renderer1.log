@@ -1,0 +1,16 @@
+[2019-06-14 20:38:13.581] [renderer1] [warning] UNRESPONSIVE extension host, 'tombonnike.vscode-status-bar-format-toggle' took 49% of 1318.12ms, saved PROFILE here: '/tmp/exthost-079b06.cpuprofile' [{"id":"gc","total":624,"percentage":0},{"id":"ms-vscode.csharp","total":34695,"percentage":3},{"id":"program","total":40286,"percentage":3},{"id":"self","total":578820,"percentage":44},{"id":"tombonnike.vscode-status-bar-format-toggle","total":641365,"percentage":49},{"id":"wayou.vscode-todo-highlight","total":5289,"percentage":0}]
+[2019-06-14 20:38:59.039] [renderer1] [error] spawn /home/knight/.vscode/extensions/mikhail-arkhipov.r-0.0.6/node_modules/opn/xdg-open EACCES: Error: spawn /home/knight/.vscode/extensions/mikhail-arkhipov.r-0.0.6/node_modules/opn/xdg-open EACCES
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-14 20:39:55.347] [renderer1] [error] spawn /home/knight/.vscode/extensions/mikhail-arkhipov.r-0.0.6/node_modules/opn/xdg-open EACCES: Error: spawn /home/knight/.vscode/extensions/mikhail-arkhipov.r-0.0.6/node_modules/opn/xdg-open EACCES
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-14 20:42:32.994] [renderer1] [warning] UNRESPONSIVE extension host, 'kisstkondoros.vscode-codemetrics' took 43% of 1758.695ms, saved PROFILE here: '/tmp/exthost-0c0b40.cpuprofile' [{"id":"gc","total":1727,"percentage":0},{"id":"kisstkondoros.vscode-codemetrics","total":763315,"percentage":43},{"id":"ms-vscode.csharp","total":49776,"percentage":3},{"id":"naumovs.color-highlight","total":18557,"percentage":1},{"id":"nrwl.angular-console","total":6588,"percentage":0},{"id":"PKief.material-icon-theme","total":4899,"percentage":0},{"id":"program","total":50475,"percentage":3},{"id":"self","total":763444,"percentage":43},{"id":"tombonnike.vscode-status-bar-format-toggle","total":88478,"percentage":5},{"id":"wayou.vscode-todo-highlight","total":2998,"percentage":0}]
+[2019-06-14 20:42:47.392] [renderer1] [error] spawn /home/knight/.vscode/extensions/mikhail-arkhipov.r-0.0.6/node_modules/opn/xdg-open EACCES: Error: spawn /home/knight/.vscode/extensions/mikhail-arkhipov.r-0.0.6/node_modules/opn/xdg-open EACCES
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)
+[2019-06-14 21:00:36.375] [renderer1] [warning] Aborted onWillSaveTextDocument-event after 1750ms
+[2019-06-14 21:02:48.628] [renderer1] [warning] Aborted onWillSaveTextDocument-event after 1750ms

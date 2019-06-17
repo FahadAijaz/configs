@@ -1,0 +1,15 @@
+Looking for git in: git
+Using git 2.21.0 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/knight
+> git status -z -u
+> git check-ignore -z --stdin
+> git show :.config/Code/User/unimodalcpp
+> git show :.config/Code/User/unimodal.c
+> git show :Documents/PythonScripts/.vscode/tasks.json
+> git ls-files --stage -- Documents/PythonScripts/.vscode/
+> git show :.config/Code/User/unimodal.c
+> git show :Documents/PythonScripts/.vscode/launch.json
+> git ls-files --stage -- Documents/PythonScripts/.vscode/
+> git show :.config/Code/User/unimodal.c

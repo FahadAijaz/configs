@@ -1,0 +1,131 @@
+[2019-06-17 16:14:02.389] [renderer1] [warning] UNRESPONSIVE extension host, 'kisstkondoros.vscode-codemetrics' took 40% of 4372.246ms, saved PROFILE here: '/tmp/exthost-98cd7f.cpuprofile' [{"id":"gc","total":26619,"percentage":1},{"id":"joelday.docthis","total":598345,"percentage":14},{"id":"johnpapa.vscode-peacock","total":5532,"percentage":0},{"id":"kisstkondoros.vscode-codemetrics","total":1737813,"percentage":40},{"id":"mishkinf.goto-next-previous-member","total":293,"percentage":0},{"id":"ms-vscode.csharp","total":52991,"percentage":1},{"id":"naumovs.color-highlight","total":15072,"percentage":0},{"id":"nrwl.angular-console","total":5850,"percentage":0},{"id":"PKief.material-icon-theme","total":13277,"percentage":0},{"id":"program","total":97667,"percentage":2},{"id":"self","total":1426461,"percentage":33},{"id":"tombonnike.vscode-status-bar-format-toggle","total":353978,"percentage":8},{"id":"wayou.vscode-todo-highlight","total":6679,"percentage":0}]
+[2019-06-17 19:25:14.495] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:25:29.542] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:29:24.590] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:29:38.073] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:31:32.100] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:31:59.235] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:32:58.320] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:33:20.794] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:40:35.501] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:41:42.933] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:41:53.117] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:42:34.552] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:42:40.985] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:46:47.413] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:48:57.748] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:49:33.110] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 19:49:43.876] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 20:27:41.628] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 20:28:51.189] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 20:29:13.077] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 20:29:38.336] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 20:30:39.987] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 20:31:00.225] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 20:32:44.676] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 20:33:11.389] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-17 20:33:25.257] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)

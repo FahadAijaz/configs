@@ -1,0 +1,35 @@
+[2019-06-13 22:12:02.640] [renderer1] [warning] UNRESPONSIVE extension host, 'kisstkondoros.vscode-codemetrics' took 38% of 4080.782ms, saved PROFILE here: '/tmp/exthost-a224b9.cpuprofile' [{"id":"gc","total":43496,"percentage":1},{"id":"joelday.docthis","total":535243,"percentage":13},{"id":"johnpapa.vscode-peacock","total":6709,"percentage":0},{"id":"kisstkondoros.vscode-codemetrics","total":1550034,"percentage":38},{"id":"mishkinf.goto-next-previous-member","total":445,"percentage":0},{"id":"ms-vscode.csharp","total":36548,"percentage":1},{"id":"naumovs.color-highlight","total":10833,"percentage":0},{"id":"nrwl.angular-console","total":6589,"percentage":0},{"id":"PKief.material-icon-theme","total":6720,"percentage":0},{"id":"program","total":49328,"percentage":1},{"id":"self","total":1443838,"percentage":35},{"id":"tombonnike.vscode-status-bar-format-toggle","total":368070,"percentage":9},{"id":"wayou.vscode-todo-highlight","total":7194,"percentage":0}]
+[2019-06-13 22:26:22.295] [renderer1] [warning] UNRESPONSIVE extension host, 'kisstkondoros.vscode-codemetrics' took 45% of 1320.821ms, saved PROFILE here: '/tmp/exthost-61fefc.cpuprofile' [{"id":"gc","total":1951,"percentage":0},{"id":"kisstkondoros.vscode-codemetrics","total":590008,"percentage":45},{"id":"mishkinf.goto-next-previous-member","total":332,"percentage":0},{"id":"ms-vscode.csharp","total":23152,"percentage":2},{"id":"naumovs.color-highlight","total":8395,"percentage":1},{"id":"nrwl.angular-console","total":5214,"percentage":0},{"id":"PKief.material-icon-theme","total":4748,"percentage":0},{"id":"program","total":21179,"percentage":2},{"id":"self","total":579008,"percentage":44},{"id":"tombonnike.vscode-status-bar-format-toggle","total":74712,"percentage":6},{"id":"wayou.vscode-todo-highlight","total":4785,"percentage":0}]
+[2019-06-13 22:30:52.612] [renderer1] [warning] Aborted onWillSaveTextDocument-event after 1750ms
+[2019-06-13 22:30:54.994] [renderer1] [warning] UNRESPONSIVE extension host, 'kisstkondoros.vscode-codemetrics' took 45% of 1602.915ms, saved PROFILE here: '/tmp/exthost-20974f.cpuprofile' [{"id":"gc","total":772,"percentage":0},{"id":"kisstkondoros.vscode-codemetrics","total":728416,"percentage":45},{"id":"mishkinf.goto-next-previous-member","total":171,"percentage":0},{"id":"ms-vscode.csharp","total":30686,"percentage":2},{"id":"naumovs.color-highlight","total":14283,"percentage":1},{"id":"nrwl.angular-console","total":5247,"percentage":0},{"id":"PKief.material-icon-theme","total":8598,"percentage":1},{"id":"program","total":25025,"percentage":2},{"id":"self","total":686862,"percentage":43},{"id":"tombonnike.vscode-status-bar-format-toggle","total":88206,"percentage":6},{"id":"wayou.vscode-todo-highlight","total":4547,"percentage":0}]
+[2019-06-13 22:35:06.452] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-13 22:35:13.010] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-13 23:10:33.170] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/knight/.vscode/extensions/rust-lang.rust-0.6.1/out/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/knight/.vscode/extensions/rust-lang.rust-0.6.1/out/providers/signatureHelpProvider.js:15:105)
+[2019-06-13 23:11:30.487] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-13 23:12:31.394] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-13 23:12:34.909] [renderer1] [error] ioctl(2) failed.: Error: ioctl(2) failed.
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:216:13)
+    at d.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2754:427)
+    at y.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3908:362)
+    at _processManager._processManager.ptyProcessReady.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3740:90)
+[2019-06-13 23:30:43.344] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/knight/.vscode/extensions/rust-lang.rust-0.6.1/out/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/knight/.vscode/extensions/rust-lang.rust-0.6.1/out/providers/signatureHelpProvider.js:15:105)

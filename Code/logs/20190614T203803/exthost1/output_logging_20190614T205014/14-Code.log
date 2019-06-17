@@ -1,0 +1,15 @@
+[Running] Rscript "/home/knight/Documents/Nlp/test.r"
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+[Done] exited with code=0 in 1.584 seconds
+

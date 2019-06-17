@@ -1,0 +1,63 @@
+Looking for git in: git
+Using git 2.21.0 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/knight
+> git status -z -u
+> git show :Documents/rust/learning/src/main.rs
+> git check-ignore -z --stdin
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/.vscode/tasks.json
+> git ls-files --stage -- Documents/rust/learning/.vscode/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/.vscode/tasks.json
+> git ls-files --stage -- Documents/rust/learning/.vscode/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/.vscode/tasks.json
+> git ls-files --stage -- Documents/rust/learning/.vscode/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/.vscode/tasks.json
+> git ls-files --stage -- Documents/rust/learning/.vscode/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/pattern.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/pattern.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/pattern.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/pattern.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/pattern.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/struct.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/struct.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/struct.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/object.rs
+> git ls-files --stage -- Documents/rust/learning/src/
+> git show :Documents/rust/learning/src/main.rs
+> git ls-files --stage -- Documents/rust/learning/src/

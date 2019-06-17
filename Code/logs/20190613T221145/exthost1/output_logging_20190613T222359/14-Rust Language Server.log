@@ -1,0 +1,5 @@
+[Error - 10:24:07 PM] Starting client failed
+Error: 
+	at Object.<anonymous> (/home/knight/.vscode/extensions/rust-lang.rust-0.6.1/out/rustup.js:80:19)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/knight/.vscode/extensions/rust-lang.rust-0.6.1/out/rustup.js:4:58)

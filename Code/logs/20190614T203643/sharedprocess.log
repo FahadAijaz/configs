@@ -1,0 +1,14 @@
+[2019-06-14 20:36:47.784] [sharedprocess] [info] main {"machineId":"b4c5fb79920f8c04b74a33d121bda25fb61ba4d21fe78c5955b78475426cc273"}
+[2019-06-14 20:36:48.190] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 20:36:48.313] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 20:36:48.868] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-14 20:36:48.940] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 20:36:51.792] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 20:36:52.613] [sharedprocess] [info] Installing extension: nrwl.angular-console
+[2019-06-14 20:36:52.720] [sharedprocess] [info] Scanned user extensions: 91
+[2019-06-14 20:36:56.426] [sharedprocess] [info] Downloaded extension: nrwl.angular-console /tmp/d284f690-eefb-4367-84fb-74aa44646297
+[2019-06-14 20:36:58.935] [sharedprocess] [info] Extracted extension to /home/knight/.vscode/extensions/.nrwl.angular-console-8.0.5: nrwl.angular-console
+[2019-06-14 20:36:58.936] [sharedprocess] [info] Renamed to /home/knight/.vscode/extensions/nrwl.angular-console-8.0.5
+[2019-06-14 20:36:58.937] [sharedprocess] [info] Installation completed. nrwl.angular-console
+[2019-06-14 20:36:59.097] [sharedprocess] [info] Extensions installed successfully: nrwl.angular-console
+[2019-06-14 20:37:27.800] [sharedprocess] [info] Starting to clean up unused language packs.

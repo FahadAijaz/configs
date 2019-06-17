@@ -1,0 +1,6 @@
+[FileDialogSize]
+Window-Maximized 1200x1800=true
+
+[KFileDialog Settings]
+Recent Files[$e]=LOG,file:$HOME/Downloads/LOG
+Recent URLs[$e]=file:$HOME/Downloads/

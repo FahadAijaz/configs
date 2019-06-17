@@ -1,0 +1,41 @@
+[1]
+Active=1
+Sessions=1
+
+[2]
+Active=1
+Sessions=2
+
+[Number]
+NumberOfSessions=2
+NumberOfWindows=2
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Shell.profile
+RemoteTab=(%u) %H
+SessionGuid={7b27e631-00c0-48e2-8a20-aaa057495c65}
+WorkingDir[$e]=$HOME
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Shell.profile
+RemoteTab=(%u) %H
+SessionGuid={bf9f6f10-f2ee-4a9a-8e6e-c883dcf63388}
+WorkingDir[$e]=$HOME/.config
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+Height 1200=1137
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAA4AAAARTAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1800=896
+
+[WindowProperties2]
+ClassName=Konsole::MainWindow
+Height 1200=1137
+ObjectName=MainWindow#2
+State=AAAA/wAAAAD9AAAAAAAAA4AAAARTAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1800=896

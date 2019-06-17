@@ -1,0 +1,11 @@
+6/14/2019, 9:02:35 PM:
+----------------------
+Unexpected token, expected "," (/home/knight/.config/Code/User/settings.json:69:5)
+  67 |     "r.rterm.linux": "/usr/bin/R"
+  68 |     // Enable a select few symbols
+> 69 |     "gotoNextPreviousMember.symbolKinds": [
+     |     ^
+  70 |         "function",
+  71 |         "class"
+  72 |     ],
+
